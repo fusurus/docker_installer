@@ -58,7 +58,7 @@ https://github.com/tech-shrimp/docker_installer/releases
 
 
 ```
-start /w "" "Docker Desktop Installer.exe" install --installation-dir=D:\Docker
+"D:\Download\Docker Desktop Installer.exe"  install --installation-dir="D:\Docker"
 ```
 
 ## 1.3 Mac
